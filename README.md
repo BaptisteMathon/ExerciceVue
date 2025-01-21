@@ -1,6 +1,6 @@
 # nextu-vue-helloworld
 
-Faire la commande suivante pour lancé le projet : ```npm run dev```
+Faire la commande suivante pour lancer le projet : ```npm run dev```
 
 ## Exercice Composant :
 
