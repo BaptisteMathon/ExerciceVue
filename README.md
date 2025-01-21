@@ -1,5 +1,7 @@
 # nextu-vue-helloworld
 
+Faire la commande suivante pour lancé le projet : ```npm run dev```
+
 ## Exercice Composant :
 
 Les différents composant utilisé pour l'exercice sont les suivants:
